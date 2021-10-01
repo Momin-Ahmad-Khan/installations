@@ -1,0 +1,4 @@
+install Visual Studio Code
+install Particle Photon IOT workbench
+open terminal and execute the following command:
+sudo apt-get install libarchive-zip-perl

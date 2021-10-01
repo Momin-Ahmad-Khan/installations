@@ -1,0 +1,4 @@
+Go to Arduino preferences and add the URL:https://dl.espressif.com/dl/package_esp32_index.json
+Open Boards Manager and install the esp32 platform
+install pip3
+install the pyserial package

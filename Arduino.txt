@@ -1,0 +1,7 @@
+download the arduino IDE
+Install it
+open terminal and enter: ls -l /dev/ttyACM*
+then enter: sudo chmod a+rw /dev/ttyACM0
+enter the above command for the port in use. Here I was using ttyACM0
+install pip3
+install pyserial
