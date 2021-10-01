@@ -1,5 +1,5 @@
 download and burn ubuntu in flash drive
-disable safe boot
+disable safe boot from bios
 go to registry and change keys for ahci. convert storage controller from rst to ahci
 go to bios and change storage controller from rst to ahci
 boot from flash drive and install ubuntu on the selected partition(SSD)
