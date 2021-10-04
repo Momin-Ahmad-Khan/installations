@@ -1,0 +1,5 @@
+configure git
+to push a file:
+git add scp.txt
+git commit -m "added scp.txt"
+git branch -M main
