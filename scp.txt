@@ -1,0 +1,5 @@
+ssh into raspberry pi
+open up a terminal locally
+run the following command:
+scp get-pip.py pi@192.168.1.254:~/
+the format is scp (file to be sent) (which device to send to):(which directory to place file in)
